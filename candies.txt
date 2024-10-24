@@ -1,0 +1,17 @@
+Frosty Fizz|Boosts player's stamina by 10 units|stamina|10|magical|10
+Lucky Licorice|Decreases opponents stamina by 10 units (mild)|stamina|-10|poison|15
+Ruby Rapture|Forms a gummy barrier on a chosen tile and opponent loses 2 turns|turns|-2|gummy|20
+Crimson Crystal|Boosts player's stamina by 15 units|stamina|15|magical|20
+Fearsome Fudge|Forms a gummy barrier on a chosen tile and opponent loses 1 turn|turns|-1|gummy|15
+Venomous Vortex|Decreases opponents stamina by 15 units(moderate)|stamina|-15|poison|20
+Bubblegum Blast|Protects against mild poison candy|other|1|immunity|15
+Mystic Marshmallow|Boosts player's stamina by 20 units|stamina|20|magical|30
+Sparkling Sapphire|Protects against mild and moderate poison candies|other|2|immunity|20
+Toxic Taffy|Decreases opponents stamina by 20 units(strong)|stamina|-20|poison|25
+Caramel Comet|Protects against all poison candies|other|3|immunity|25
+Breezy Butterscotch|Increases player stamina by 5 units|stamina|5|magical|10
+Beets Beat Bears|The power of the beet protects against poisned candy|other|3|immunity|25
+Candied Mungbeans|Gives off distinct old people smell that poisons other players|stamina|-20|poison|20
+Moses Milkduds|Gives the owner a great boost to stamina|stamina|20|magical|40
+Jellybean of Vigor|This special candy offers significicant stamina regen|stamina|50|magical|101
+Treasure Hunter's Truffle|This special candy give you the chance to unlock a hidden treasure|treasure|1|treasure|101 

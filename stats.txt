@@ -1,0 +1,12 @@
+Player Name: player 1
+Character Name: JellyBean_Jane
+Stamina: 21
+Gold: 55
+Candies: 
+|[Breezy Butterscotch]|[Fearsome Fudge]|[Crimson Crystal]||[Mystic Marshmallow]|[Crimson Crystal]|[Empty]||[Empty]|[Empty]|[Empty]|
+Player Name: player 2
+Character Name: MilkDuds_Mose
+Stamina: 38
+Gold: -35
+Candies: 
+|[Bubblegum Blast]|[Moses Milkduds]|[Crimson Crystal]||[Ruby Rapture]|[Fearsome Fudge]|[Mystic Marshmallow]||[Treasure Hunter's Truffle]|[Empty]|[Empty]|

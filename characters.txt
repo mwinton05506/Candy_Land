@@ -1,0 +1,6 @@
+Toffee_Todd|50|60|Frosty Fizz,Toxic Taffy,Bubblegum Blast,Caramel Comet,Lucky Licorice
+JellyBean_Jane|50|50|Breezy Butterscotch,Lucky Licorice,Fearsome Fudge,Crimson Crystal,Mystic Marshmallow
+DubbleBubble_Dwight|65|65|Beets Beat Bears,Breezy Butterscotch,Sparkling Sapphire,Fearsome Fudge,Venomous Vortex
+MichaelIkes_Michael|75|45|Ruby Rapture,Sparkling Sapphire,Fearsome Fudge,Venomous Vortex,Caramel Comet
+MilkDuds_Mose|70|40|Bubblegum Blast,Moses Milkduds,Crimson Crystal,Ruby Rapture,Fearsome Fudge
+CandiedMungbeans_Creed|40|60|Candied Mungbeans,Breezy Butterscotch,Ruby Rapture,Venomous Vortex,Frosty Fizz
